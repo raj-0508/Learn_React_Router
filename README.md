@@ -2,7 +2,7 @@
 
 This project is a hands-on practice for understanding and implementing routing in React applications using the React Router library. It includes basic navigation, route parameters, and nested routes.
 
-## 🚀 Live Preview 👉 [View Live](https://learn-react-router-pied.vercel.app/)
+## 🚀 Live Preview 👉 [View Live](https://learn-react-router-alpha.vercel.app/)
 
 ## Project Structure
 
